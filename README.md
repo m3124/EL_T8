@@ -7,7 +7,7 @@ This project visualizes key business metrics for the Global Superstore dataset. 
 
 ## Dashboard Screenshot
 
-![Global Superstore Dashboard]([image.jpg](https://github.com/m3124/EL_T8/blob/825358dc40495dc696973592af188820cd968e4e/Screenshot%202025-10-03%20225624.png))
+![Global Superstore Dashboard](https://github.com/m3124/EL_T8/blob/825358dc40495dc696973592af188820cd968e4e/Screenshot%202025-10-03%20225624.png))
 
 ## Key Insights
 
